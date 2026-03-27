@@ -28,7 +28,6 @@
 
 ### 🧰 Languages and Tools
 
-### 🧰 Tech Stack
 
 <p>
 
