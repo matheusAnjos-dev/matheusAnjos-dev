@@ -1,4 +1,4 @@
-<h1 align="center">Hi 👋, I'm Matheus Anjos</h1>
+<h1 align="center">Matheus Anjos</h1>
 <h3 align="center">IT Support Team Leader | Computer Engineering Student | Aspiring Backend Developer</h3>
 
 <p align="center">
