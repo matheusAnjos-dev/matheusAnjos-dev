@@ -7,7 +7,7 @@
 
 ### 🚀 About Me
 
-- 👨‍💻 IT Support Team Leader with 2+ years of experience in production environments  
+- 👨‍💻 IT Support Team Leader with 3+ years of experience in production environments  
 - 🐧 Working daily with Linux, Docker and system troubleshooting  
 - ⚙️ Experience with integrations and scripting (Python & Ruby)  
 - 🧠 Strong foundation in Data Structures, Algorithms and OOP (Java & C)  
