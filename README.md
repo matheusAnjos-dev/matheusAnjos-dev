@@ -80,11 +80,9 @@
 
 ### 🎯 Goals
 
-- 🚀 Become a Backend Developer  
-- 📈 Improve system design skills  
-- 🧠 Master Data Structures & Algorithms  
-- 🛠️ Build real-world projects  
+- 🚀 Secure a Backend Developer position  
+- ⚙️ Design and build scalable APIs and systems  
+- 🐳 Strengthen expertise in Docker, Linux and production environments  
+- 🧠 Advance in Data Structures, Algorithms and system design  
+- 🛠️ Deliver real-world projects focused on performance and reliability 
 
----
-
-⭐ If you like my work, consider giving a star!
