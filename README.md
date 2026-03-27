@@ -1,8 +1,10 @@
 <h1 align="center">Matheus Anjos</h1>
-<h3 align="center">IT Support Team Leader | Computer Engineering Student | Aspiring Backend Developer</h3>
+<p align="center">
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=22&duration=3000&pause=1000&color=00C2FF&center=true&vCenter=true&width=600&lines=Backend+Developer+in+Progress;Focused+on+Growth" />
+</p>
 
 <p align="center">
-  <img src="https://komarev.com/ghpvc/?username=matheusanjos-dev&label=Profile%20views&color=0e75b6&style=flat" />
+  <img src="[https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif](https://media0.giphy.com/media/v1.Y2lkPTc5MGI3NjExeHR0bGxka3NlaDljZGVxcXJhdmhsZm9vNmJ4MmJpMzJqOWN2dzU5MCZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/D35fOVm9gSQ91icJeR/giphy.gif)" width="400"/>
 </p>
 
 ---
