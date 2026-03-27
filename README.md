@@ -1,5 +1,5 @@
 <h1 align="center">Matheus Anjos</h1>
-<h3 align="center">IT Support Team Leader | Computer Engineering Student | Linux | Docker | Backend Development</h3>
+<h3 align="center">IT Support Team Leader | Linux & Docker | Computer Engineering Student | Backend Development</h3>
 ---
 
 ### 🚀 About Me
